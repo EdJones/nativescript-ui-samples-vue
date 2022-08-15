@@ -1,5 +1,4 @@
-@import "~@nativescript/theme/core";
-@import "~@nativescript/theme/default";
+
 .nameLabel {
   font-size: 20;
 }
