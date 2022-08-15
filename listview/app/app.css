@@ -1,5 +1,5 @@
-@import '~nativescript-theme-core/css/core.light.css';
-
+@import "~@nativescript/theme/core";
+@import "~@nativescript/theme/default";
 .nameLabel {
   font-size: 20;
 }

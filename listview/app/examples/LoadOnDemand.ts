@@ -1,7 +1,7 @@
 import { isIOS } from '@nativescript/core';
 import { RadListView } from 'nativescript-ui-listview';
 import { getItemList } from '../data';
-import { ObservableArray } from 'tns-core-modules/data/observable-array/observable-array';
+import { ObservableArray } from '@nativescript/core/';
 
 const description = 'Load On Demand';
 
