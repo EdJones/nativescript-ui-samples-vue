@@ -1,5 +1,5 @@
 import { getItemList } from '../data';
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Frame } from '@nativescript/core';
 import { ListViewItemSnapMode } from "nativescript-ui-listview";
 
 const description = 'Scroll To Item';

@@ -1,4 +1,4 @@
-import { isIOS } from 'tns-core-modules/platform';
+import { isIOS } from '@nativescript/core';
 import { RadListView } from 'nativescript-ui-listview';
 import { getItemList } from '../data';
 import { ObservableArray } from 'tns-core-modules/data/observable-array/observable-array';

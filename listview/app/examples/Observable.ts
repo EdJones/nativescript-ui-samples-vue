@@ -1,5 +1,4 @@
-import { Frame } from 'tns-core-modules/ui/frame';
-import { ObservableArray } from 'tns-core-modules/data/observable-array';
+import { Frame, ObservableArray } from '@nativescript/core';
 
 const description = 'Observable items';
 

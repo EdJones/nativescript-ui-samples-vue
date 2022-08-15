@@ -1,6 +1,5 @@
 import { simpleItemList } from '../data';
-import { Color } from 'tns-core-modules/color';
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Color, Frame } from '@nativescript/core';
 
 const description = 'Item Loading';
 

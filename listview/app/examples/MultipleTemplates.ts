@@ -1,4 +1,4 @@
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Frame } from '@nativescript/core';
 
 const description = 'Multiple Templates';
 // >> listview-multipletemplates-itemselector-vue

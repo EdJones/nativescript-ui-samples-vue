@@ -1,4 +1,4 @@
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Frame } from '@nativescript/core';
 
 const description = 'Pull To Refresh';
 // >> listview-pulltorefresh-vue

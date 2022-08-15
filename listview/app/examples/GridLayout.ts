@@ -1,5 +1,5 @@
 import { simpleItemList } from '../data';
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Frame } from '@nativescript/core';
 
 const description = 'Grid with item height';
 // >> listvue-gridlayout-vue

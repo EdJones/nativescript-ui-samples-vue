@@ -1,7 +1,6 @@
 import { getItemList } from '../data';
-import { Frame }  from "tns-core-modules/ui/frame";
+import { Frame, ObservableArray } from '@nativescript/core';
 
-import { ObservableArray } from 'tns-core-modules/data/observable-array';
 
 const description = 'Item Selection';
 // >> listview-itemselection-vue
