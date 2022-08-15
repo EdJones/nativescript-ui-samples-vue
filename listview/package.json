@@ -4,13 +4,17 @@
   "readme": "README.md",
   "repository": "http://www.github.com/NativeScript/nativescript-ui-listview.git",
   "dependencies": {
+    "@nativescript/core": "~8.3.0",
+    "@nativescript/theme": "^3.0.2",
     "nativescript-theme-core": "~1.0.4",
     "nativescript-ui-listview": "*",
     "nativescript-vue": "~2.9.1",
-    "tslib": "^1.9.3",
-    "@nativescript/core": "~8.3.0"
+    "tslib": "^1.9.3"
   },
   "devDependencies": {
+    "@nativescript/ios": "8.3.3",
+    "@nativescript/types": "~8.3.0",
+    "@nativescript/webpack": "~5.0.0",
     "@types/chai": "^4.0.2",
     "@types/mocha": "^2.2.41",
     "@types/node": "^7.0.5",
@@ -23,9 +27,7 @@
     "nativescript-dev-appium": "next",
     "nativescript-vue-template-compiler": "~2.9.1",
     "tslint": "~5.11.0",
-    "typescript": "~4.5.5",
-    "@nativescript/types": "~8.3.0",
-    "@nativescript/webpack": "~5.0.0"
+    "typescript": "~4.5.5"
   },
   "main": "./app/main.ts"
 }
